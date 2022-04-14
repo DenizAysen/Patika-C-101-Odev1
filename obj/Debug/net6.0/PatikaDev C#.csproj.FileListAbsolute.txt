@@ -1,0 +1,15 @@
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\bin\Debug\net6.0\PatikaDev C#.exe
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\bin\Debug\net6.0\PatikaDev C#.deps.json
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\bin\Debug\net6.0\PatikaDev C#.runtimeconfig.json
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\bin\Debug\net6.0\PatikaDev C#.dll
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\bin\Debug\net6.0\PatikaDev C#.pdb
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\obj\Debug\net6.0\PatikaDev C#.csproj.AssemblyReference.cache
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\obj\Debug\net6.0\PatikaDev C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\obj\Debug\net6.0\PatikaDev C#.AssemblyInfoInputs.cache
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\obj\Debug\net6.0\PatikaDev C#.AssemblyInfo.cs
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\obj\Debug\net6.0\PatikaDev C#.csproj.CoreCompileInputs.cache
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\obj\Debug\net6.0\PatikaDev C#.dll
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\obj\Debug\net6.0\refint\PatikaDev C#.dll
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\obj\Debug\net6.0\PatikaDev C#.pdb
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\obj\Debug\net6.0\PatikaDev C#.genruntimeconfig.cache
+C:\Users\TURGUT DENİZ AYSEN\Desktop\PatikaDev C#\obj\Debug\net6.0\ref\PatikaDev C#.dll
